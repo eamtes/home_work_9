@@ -1,1 +1,1 @@
-# home_work_9
+# Работа с ОС Linux с помощью Python 
